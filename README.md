@@ -1,66 +1,45 @@
-# Master en Python: Aprender Python, Django, Flask y Tkinter
+## Master en Python: Aprender Python 3, Django, Flask y Tkinter
 
-¡Bienvenido a mi repositorio de proyectos y ejercicios del curso "Master en Python: Aprender Python, Django, Flask y Tkinter" en Udemy!
+### Descripción del Curso
 
-Este repositorio es una recopilación de todo lo que he aprendido y desarrollado durante el curso, incluyendo código fuente, ejemplos prácticos y proyectos completos.
+Este repositorio contiene las notas de clase del curso "Master en Python: Aprender Python 3, Django, Flask y Tkinter" ofrecido en Udemy por Víctor Robles. El curso abarca desde los fundamentos de Python hasta el desarrollo web completo utilizando los frameworks Django y Flask, así como el desarrollo de aplicaciones de escritorio con Tkinter.
 
-## Descripción del curso
+### Contenido del Repositorio
 
-El curso "Master en Python: Aprender Python, Django, Flask y Tkinter" cubre una amplia gama de temas esenciales para dominar Python y sus aplicaciones en el desarrollo web y de interfaces gráficas. A continuación, se detallan los principales módulos del curso:
+- **Notas de Clase**: Resumen de los temas cubiertos en cada lección.
+- **Ejemplos de Código**: Fragmentos de código utilizados en el curso para ilustrar conceptos clave.
+- **Proyectos Prácticos**: Proyectos desarrollados durante el curso, incluyendo aplicaciones web con Django y Flask, y aplicaciones de escritorio con Tkinter.
+- **Recursos Adicionales**: Enlaces a documentación, tutoriales y otros recursos útiles para complementar el aprendizaje.
 
-- **Fundamentos de Python**: Sintaxis básica, estructuras de datos, control de flujo, funciones, manejo de errores y módulos.
-- **Programación Orientada a Objetos (OOP)**: Clases y objetos, herencia, polimorfismo, encapsulamiento y más.
-- **Desarrollo Web con Django**: Creación de proyectos y aplicaciones, modelos, vistas, plantillas, autenticación, administración, y despliegue.
-- **Desarrollo de Aplicaciones Web con Flask**: Estructura de aplicaciones, rutas y vistas, plantillas con Jinja2, manejo de formularios y extensiones.
-- **Desarrollo de Interfaces Gráficas con Tkinter**: Widgets, gestión de eventos, diseño de interfaces, y proyectos de ejemplo.
+### Estructura del Repositorio
 
-## Contenido del repositorio
+```
+├── 01_Fundamentos_Python/
+│   ├── Notas_Fundamentos.md
+│   ├── ejemplos/
+│   └── ejercicios/
+├── 02_Programacion_Orientada_Objetos/
+│   ├── Notas_POO.md
+│   ├── ejemplos/
+│   └── ejercicios/
+├── 03_Desarrollo_Con_Tkinter/
+│   ├── Notas_Tkinter.md
+│   ├── ejemplos/
+│   └── ejercicios/
+├── 04_Desarrollo_Web_Django/
+│   ├── Notas_Django.md
+│   ├── ejemplos/
+│   └── ejercicios/
+├── 05_Desarrollo_Web_Flask/
+│   ├── Notas_Flask.md
+│   ├── ejemplos/
+│   └── ejercicios/
+└── README.md
+```
 
-### 1. Fundamentos de Python
-En esta sección se encuentran los ejercicios y ejemplos relacionados con los conceptos básicos de Python.
-- **Introducción a Python**
-- **Tipos de Datos y Variables**
-- **Estructuras de Control**
-- **Funciones y Módulos**
-- **Manejo de Excepciones**
-- **Estructuras de Datos: Listas, Tuplas, Diccionarios y Conjuntos**
+### Recursos Adicionales
 
-### 2. Programación Orientada a Objetos (OOP)
-Código y proyectos que ejemplifican los principios de la programación orientada a objetos.
-- **Definición de Clases y Objetos**
-- **Métodos y Atributos**
-- **Encapsulamiento**
-- **Herencia**
-- **Polimorfismo**
-- **Manejo de Archivos**
-
-### 3. Desarrollo Web con Django
-Proyectos y ejemplos que muestran cómo construir aplicaciones web robustas con Django.
-- **Configuración Inicial**
-- **Modelos y Migraciones**
-- **Vistas y URLs**
-- **Plantillas**
-- **Formularios**
-- **Sistema de Autenticación**
-- **Admin de Django**
-- **Despliegue**
-
-### 4. Desarrollo de Aplicaciones Web con Flask
-Ejemplos y proyectos utilizando Flask para construir aplicaciones web ligeras y flexibles.
-- **Configuración de Proyectos**
-- **Rutas y Vistas**
-- **Plantillas con Jinja2**
-- **Manejo de Formularios**
-- **Bases de Datos con SQLAlchemy**
-- **Autenticación**
-- **Despliegue**
-
-### 5. Desarrollo de Interfaces Gráficas con Tkinter
-Proyectos que demuestran cómo crear interfaces de usuario interactivas y visualmente atractivas.
-- **Widgets Básicos**
-- **Gestión de Layouts**
-- **Manejo de Eventos**
-- **Proyectos de Ejemplo**
-  - Calculadora
-  - Gestor de Tareas
-  - Juego de Memoria
+- [Documentación Oficial de Python](https://docs.python.org/3/)
+- [Documentación de Django](https://docs.djangoproject.com/en/stable/)
+- [Documentación de Flask](https://flask.palletsprojects.com/en/stable/)
+- [Documentación de Tkinter](https://docs.python.org/3/library/tkinter.html)
