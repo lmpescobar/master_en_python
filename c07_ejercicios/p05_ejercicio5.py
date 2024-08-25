@@ -4,6 +4,8 @@
 Ejercicio 5. Hacer un programa que muestre todos los 
 números entre dos números que diga el usuario
 """
+
+#Ejemplo 1
 # Pedir al usuario que introduzca dos números
 numero1 = int(input("Introduce el primer número: "))
 numero2 = int(input("Introduce el segundo número: "))
@@ -15,9 +17,10 @@ mayor = max(numero1, numero2)
 # Mostrar todos los números entre los dos números dados
 print(f"Los números entre {menor} y {mayor} son:")
 
-for num in range(menor , mayor + 1):
+for num in range(menor, mayor + 1):
     print(num)
 
+# Ejemplo 2
 # Pedir al usuario que introduzca dos números
 numero1 = int(input("Introduce el primer número: "))
 numero2 = int(input("Introduce el segundo número: "))
